@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[Repository](https://github.com/devsuperior/sds3/tree/main/episodio3) of DevSuperior.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
